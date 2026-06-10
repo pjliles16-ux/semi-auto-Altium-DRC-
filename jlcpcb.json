@@ -1,0 +1,8 @@
+{
+  "Clearance": { "value": 0.15, "tolerance": 5, "severity": "CRITICAL" },
+  "MinimumTrackWidth": { "value": 0.15, "tolerance": 5, "severity": "CRITICAL" },
+  "MinimumViaDrill": { "value": 0.3, "tolerance": 3, "severity": "CRITICAL" },
+  "MinimumAnnularRing": { "value": 0.1, "tolerance": 5, "severity": "WARNING" },
+  "BoardWidth": { "value": 100, "tolerance": 1, "severity": "INFO" },
+  "BoardHeight": { "value": 80, "tolerance": 1, "severity": "INFO" }
+}

@@ -1,0 +1,5 @@
+{
+  "Clearance": { "value": 0.2, "tolerance": 3, "severity": "CRITICAL" },
+  "MinimumTrackWidth": { "value": 0.18, "tolerance": 5, "severity": "WARNING" },
+  "MinimumViaDrill": { "value": 0.35, "tolerance": 2, "severity": "CRITICAL" }
+}
